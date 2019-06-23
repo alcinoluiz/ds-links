@@ -34,6 +34,9 @@ https://www.amazon.com.br/Data-Science-para-neg%C3%B3cios-Fawcett/dp/8576089726
  Python  
  https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6
  
+ Probabilidade e Estatística - Khan Academy  
+ https://www.youtube.com/playlist?list=PLTtZUJqLYbCl9oBV_22ycFJsVeddG4ixd
+ 
  ## Podcast
  
  DataHackers  
@@ -61,9 +64,6 @@ https://www.amazon.com.br/Data-Science-para-neg%C3%B3cios-Fawcett/dp/8576089726
  
  Data science pitfalls | Nubank ML Meetup  
  https://www.youtube.com/watch?v=i536yu9_rJg
- 
- Probabilidade e Estatística - Khan Academy  
- https://www.youtube.com/playlist?list=PLTtZUJqLYbCl9oBV_22ycFJsVeddG4ixd
 
 
 ## Outros
