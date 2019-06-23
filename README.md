@@ -67,5 +67,5 @@ https://www.amazon.com.br/Data-Science-para-neg%C3%B3cios-Fawcett/dp/8576089726
 
 
 ## Outros
-https://www.reddit.com/r/datascience/
+https://www.reddit.com/r/datascience/  
 https://medium.com/topic/data-science
