@@ -64,3 +64,8 @@ https://www.amazon.com.br/Data-Science-para-neg%C3%B3cios-Fawcett/dp/8576089726
  
  Probabilidade e Estatística - Khan Academy  
  https://www.youtube.com/playlist?list=PLTtZUJqLYbCl9oBV_22ycFJsVeddG4ixd
+
+
+## Outros
+https://www.reddit.com/r/datascience/
+https://medium.com/topic/data-science
